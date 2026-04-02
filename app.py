@@ -7,7 +7,9 @@ app = Flask(__name__)
 # -----------------------------
 members = [
     {"id": 1, "name": "Rahul Sharma", "age": 25, "plan": "Monthly", "status": "Active"},
-    {"id": 2, "name": "Priya Patil", "age": 28, "plan": "Quarterly", "status": "Active"}
+    {"id": 2, "name": "Priya Patil", "age": 28, "plan": "Quarterly", "status": "Active"},
+    {"id": 3, "name": "Roy", "age": 23, "plan": "Monthly", "status": "Active"},
+    {"id": 4, "name": "Renna Shinde", "age": 28, "plan": "Quarterly", "status": "Inactive"}
 ]
 
 # -----------------------------
