@@ -18,7 +18,7 @@ members = [
 @app.route('/')
 def home():
     return jsonify({
-        "message": "Welcome to ACEest Fitness & Gym Management System"
+        "message": "Welcome to Gym Management System"
     })
 
 
